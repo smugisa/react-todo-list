@@ -39,7 +39,7 @@ export default class App extends Component {
     console.log("clear list");
   };
   handleDelete = id => {
-    console.log(`handle delet ${id}`);
+    console.log(`handle delete ${id}`);
   };
   handleEdit = id => {
     console.log(`handle edit ${id}`);
